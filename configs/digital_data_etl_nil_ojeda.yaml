@@ -1,0 +1,17 @@
+parameters:
+  user_full_name: Nil Ojeda # [First Name(s)] [Last Name]
+  links:
+    # YouTube (formato: https://www.youtube.com/watch?v=VIDEO_ID o https://youtu.be/VIDEO_ID)
+    - https://www.youtube.com/watch?v=ymmGlNhfP_o
+    - https://www.youtube.com/watch?v=RidwSNlVFdw
+    - https://www.youtube.com/watch?v=F56f32PuYb4
+    - https://www.youtube.com/watch?v=yYswA9wYSig
+    - https://www.youtube.com/watch?v=of2gWo6VkTE
+    - https://www.youtube.com/watch?v=EHbI8wSg6Z0
+    - https://www.youtube.com/watch?v=otvJP2-MQrA
+    - https://www.youtube.com/watch?v=Sm2XUjpqjIo
+    - https://www.youtube.com/watch?v=MGj7iVkUe8s
+    - https://www.youtube.com/watch?v=rfnMOMfrctw
+    - https://www.youtube.com/watch?v=c0s5iHEqSns
+    # Blog / Artículos (opcional)
+    # - https://

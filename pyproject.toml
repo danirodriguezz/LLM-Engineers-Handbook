@@ -42,6 +42,7 @@ langchain-community = "^0.2.11"
 fastapi = ">=0.100,<=0.110"
 uvicorn = "^0.30.6"
 opik = "^0.2.2"
+youtube-transcript-api = "^1.2.4"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -71,6 +72,7 @@ build-backend = "poetry.core.masonry.api"
 run-digital-data-etl-alex = "echo 'It is not supported anymore.'"
 run-digital-data-etl-maxime = "poetry run python -m tools.run --run-etl --no-cache --etl-config-filename digital_data_etl_maxime_labonne.yaml"
 run-digital-data-etl-paul = "poetry run python -m tools.run --run-etl --no-cache --etl-config-filename digital_data_etl_paul_iusztin.yaml"
+run-digital-data-etl-nil = "poetry run python -m tools.run --run-etl --no-cache --etl-config-filename digital_data_etl_nil_ojeda.yaml"
 run-digital-data-etl = [
     "run-digital-data-etl-maxime",
     "run-digital-data-etl-paul",
