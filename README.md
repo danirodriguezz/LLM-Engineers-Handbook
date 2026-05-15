@@ -1,7 +1,7 @@
 <p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
 
 <div align="center">
-  <h1>👷 LLM Engineer's Handbook</h1>
+  <h1>👷 LLM Engineer's Handbook Daniel</h1>
   <p class="tagline">Official repository of the <a href="https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/">LLM Engineer's Handbook</a> by <a href="https://github.com/iusztinpaul">Paul Iusztin</a> and <a href="https://github.com/mlabonne">Maxime Labonne</a></p>
   <a href="https://trendshift.io/repositories/12257" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12257" alt="PacktPublishing%2FLLM-Engineers-Handbook | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
