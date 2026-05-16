@@ -40,3 +40,12 @@ class CleanedRepositoryDocument(CleanedDocument):
         name = "cleaned_repositories"
         category = DataCategory.REPOSITORIES
         use_vector_index = False
+
+
+class CleanedVideoDocument(CleanedDocument):
+    link: str
+
+    class Config:
+        name = "cleaned_videos"
+        category = DataCategory.VIDEOS
+        use_vector_index = False

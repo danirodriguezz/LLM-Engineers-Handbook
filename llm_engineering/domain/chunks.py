@@ -36,3 +36,10 @@ class RepositoryChunk(Chunk):
 
     class Config:
         category = DataCategory.REPOSITORIES
+
+
+class VideoChunk(Chunk):
+    link: str
+
+    class Config:
+        category = DataCategory.VIDEOS
